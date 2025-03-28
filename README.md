@@ -1,0 +1,1 @@
+# Indicator-of-public-confidence-in-the-Central-Bank-based-on-sentiment-analysis
