@@ -1,7 +1,7 @@
 # Fine-tuning RuBERT 
 ## Модели
--Fine-tuning RuBERT на 1000 комментариях из обучающей выборки -> Fine-tuned RuBERT_1000
--Fine-tuning RuBERT на 7000 комментариях из обучающей выборки -> Fine-tuned RuBERT_7000
+- Fine-tuning RuBERT на 1000 комментариях из обучающей выборки -> Fine-tuned RuBERT_1000
+- Fine-tuning RuBERT на 7000 комментариях из обучающей выборки -> Fine-tuned RuBERT_7000
 
 https://huggingface.co/AnastasiaMML/EconComments-RuBERT-sentiment - модель после fine-tuning на 7000 комментариях
 
