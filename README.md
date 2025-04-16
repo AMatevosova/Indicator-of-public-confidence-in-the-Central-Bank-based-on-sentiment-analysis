@@ -14,6 +14,7 @@
 
 ## Data: comments on economic posts
 Данная папка содержит результаты сбора комментариев к постам экономической тематики в социальной сети ВКонтакте
+
 Рассматриваемые группы СМИ: aif_ru, expert_ru, izvestia, kommersant, mk_ru, rbc, ria, tassagency, vedomosti, vesti
 #### Файлы
 - Сomment_parser_for_posts_on_economic_topics.ipynb - код для сбора комментариев к постам экономической тематики в ВК
@@ -22,6 +23,7 @@
 
 ## Data: comments on posts mentioning the Central Bank
 Данная папка содержит результаты сбора комментариев к постам с упоминанием ЦБ в социальной сети ВКонтакте
+
 Рассматриваемые группы СМИ: aif_ru, expert_ru, izvestia, kommersant, mk_ru, rbc, ria, tassagency, vedomosti, vesti
 #### Файлы
 - Сomment_parser_for_posts_on_economic_topics.ipynb - код для сбора комментариев к постам с упоминанием ЦБ в ВК
