@@ -2,7 +2,7 @@
 Данный репозиторий посвящён построению индикатора доверия к ЦБ посредством сентимент-анализа комментариев социальной сети.
 В нём осуществляется сравнение различных подходов к решению поставленной задачи сентимент-анализа (классического ML, классических NN и LLMs).
 
-Методология описана в статье: Matevosova, A. (2025). Modelling Trust in the Central Bank Using Sentiment Analysis. Russian Journal of Money and Finance, 84(1), pp. 3–25.
+Методология описана в статье: *Matevosova, A. (2025). Modelling Trust in the Central Bank Using Sentiment Analysis. Russian Journal of Money and Finance, 84(1), pp. 3–25.*
 
 
 ## Data
